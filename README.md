@@ -36,14 +36,18 @@ l
 
 ## How to deploy
 
-```1ˢᵗ Fork the repo```
+```1st Fork the repo```
 
-```2ⁿᵈ Take session id```
+```2nd Take session id```
 
-```3ʳᵈ Put News sender group jid to config.js```
+```3rd Put News sender group jid to config.js```
 
-```4ᵗʰ Select Deploy Platform and deploy 🤤 enjoy now```
+```4th Select Deploy Platform and deploy 🤤 enjoy now```
 
+
+## Important Message
+
+```No any Commands```
 
 
 
