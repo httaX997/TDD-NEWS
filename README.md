@@ -38,16 +38,13 @@ l
 
 <a href="https://vajirasessionid-78fa4ff8a63a.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
-## DRPLOY NOW
+## DEPLOY NOW
 
 <a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
 
 
-<div align="center">
- 
-  <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
-</div>
+
 
 
 
