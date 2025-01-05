@@ -33,6 +33,27 @@ l
 <a href="https://tdd-gangs.github.io/Deployments/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
 
+
+## How to deploy
+
+```1ˢᵗ Fork the repo```
+
+```2ⁿᵈ Take session id```
+
+```3ʳᵈ Put News sender group jid to config.js```
+
+```4ᵗʰ Select Deploy Platform and deploy 🤤 enjoy now```
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
