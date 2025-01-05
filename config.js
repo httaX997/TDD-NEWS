@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: "",
+    SESSION_ID: 'Your session id here',
     OWNER_NUMBER: '94711453361',
    // Put news sender jid below you need to send news
     hiru: '120363190669566051@g.us',
