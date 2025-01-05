@@ -8,7 +8,7 @@ l
 </p>
 <p align="center">
 <a href="https://github.com/TDD-GANGS/">
-    <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
+    <img src="https://i.ibb.co/zGWnNZK/IMG-20241224-WA0179.jpg"  width="700px">
 </a>
 <hr>
 
