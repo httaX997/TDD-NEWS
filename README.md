@@ -45,6 +45,13 @@ l
 ```4th Select Deploy Platform and deploy 🤤 enjoy now```
 
 
+## Tutorial :- https://youtu.be/H5eBC88o-Xw?si=om_V6lt4HOP-HH4w
+
+
+Deploy in here
+
+https://github.com/TDD-GANGS/TDD-NEWS
+
 ## Important Message
 
 ```No any Commands```
